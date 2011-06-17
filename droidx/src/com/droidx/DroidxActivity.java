@@ -10,5 +10,6 @@ public class DroidxActivity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main);
         //some comments here. This is the second commenst.
+        // Another comments.
     }
 }
